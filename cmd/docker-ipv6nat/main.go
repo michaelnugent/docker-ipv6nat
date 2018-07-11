@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/fsouza/go-dockerclient"
-	"github.com/robbertkl/docker-ipv6nat"
+	"github.com/michaelnugent/docker-ipv6nat"
 )
 
 var (
